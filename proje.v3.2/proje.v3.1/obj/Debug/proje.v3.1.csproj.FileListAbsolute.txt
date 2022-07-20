@@ -1,0 +1,229 @@
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\bin\Debug\proje.v3.1.exe.config
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\bin\Debug\proje.v3.1.exe
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\bin\Debug\proje.v3.1.pdb
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.AssemblyReference.cache
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\obj\Debug\proje.v3._1.admin_form.resources
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\obj\Debug\proje.v3._1.giris_form.resources
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\obj\Debug\proje.v3._1.Properties.Resources.resources
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.GenerateResource.cache
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.CoreCompileInputs.cache
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.exe
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.pdb
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\bin\Debug\proje.v3.1.exe.config
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\bin\Debug\proje.v3.1.exe
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\bin\Debug\proje.v3.1.pdb
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.dll
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.xml
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.AssemblyReference.cache
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\obj\Debug\proje.v3._1.admin_form.resources
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\obj\Debug\proje.v3._1.giris_form.resources
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\obj\Debug\proje.v3._1.Properties.Resources.resources
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.GenerateResource.cache
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.CoreCompileInputs.cache
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.CopyComplete
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.exe
+C:\Users\sylmz\Downloads\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.pdb
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\bin\Debug\proje.v3.1.exe.config
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\bin\Debug\proje.v3.1.exe
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\bin\Debug\proje.v3.1.pdb
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.dll
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.xml
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.AssemblyReference.cache
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\obj\Debug\proje.v3._1.admin_form.resources
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\obj\Debug\proje.v3._1.giris_form.resources
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\obj\Debug\proje.v3._1.Properties.Resources.resources
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.GenerateResource.cache
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.CoreCompileInputs.cache
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.CopyComplete
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.exe
+C:\Users\sylmz\Desktop\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.pdb
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.dll
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.xml
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nurik\source\repos\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.CopyComplete
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\bin\Debug\proje.v3.1.exe.config
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\bin\Debug\proje.v3.1.exe
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\bin\Debug\proje.v3.1.pdb
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.dll
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.xml
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.AssemblyReference.cache
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\obj\Debug\proje.v3._1.admin_form.resources
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\obj\Debug\proje.v3._1.giris_form.resources
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\obj\Debug\proje.v3._1.Properties.Resources.resources
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.GenerateResource.cache
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.CoreCompileInputs.cache
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.csproj.CopyComplete
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.exe
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\obj\Debug\proje.v3.1.pdb
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\obj\Debug\proje.v3._1.hemsire_form.resources
+C:\Users\sylmz\Desktop\Hastane-Otomasyonu-main\proje.v3.1\proje.v3.1\obj\Debug\proje.v3._1.hasta_list_form.resources
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.exe.config
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.exe
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.pdb
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.dll
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.xml
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.AssemblyReference.cache
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.admin_form.resources
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.giris_form.resources
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hasta_list_form.resources
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hemsire_form.resources
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.Properties.Resources.resources
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.GenerateResource.cache
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.CoreCompileInputs.cache
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.CopyComplete
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.exe
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.pdb
+C:\Users\sylmz\Desktop\Grafik Animasyon\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.eczane_ilac_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.exe.config
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.exe
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.pdb
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.dll
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.xml
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.AssemblyReference.cache
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.admin_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.dotor_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.eczane_ilac_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.giris_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hasta_list_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hemsire_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.Properties.Resources.resources
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.GenerateResource.cache
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.CoreCompileInputs.cache
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.CopyComplete
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.exe
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.pdb
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.sekreter_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.laborant_form.resources
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.AssemblyReference.cache
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.admin_form.resources
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.dotor_form.resources
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.eczane_ilac_form.resources
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.giris_form.resources
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hasta_list_form.resources
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hemsire_form.resources
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.laborant_form.resources
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.Properties.Resources.resources
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.sekreter_form.resources
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.GenerateResource.cache
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.CoreCompileInputs.cache
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.exe
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.pdb
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.exe.config
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.exe
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.pdb
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.dll
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.xml
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.CopyComplete
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.exe.config
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.exe
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.pdb
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.dll
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.xml
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.AssemblyReference.cache
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.admin_form.resources
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.dotor_form.resources
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.eczane_ilac_form.resources
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.giris_form.resources
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hasta_list_form.resources
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hemsire_form.resources
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.laborant_form.resources
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.Properties.Resources.resources
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.sekreter_form.resources
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.GenerateResource.cache
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.CoreCompileInputs.cache
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.CopyComplete
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.exe
+C:\Users\nurik\source\repos\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.pdb
+C:\Users\sylmz\Desktop\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hasta_kayit_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.AssemblyReference.cache
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.admin_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.dotor_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.eczane_ilac_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.giris_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hasta_kayit_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hasta_list_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hemsire_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.laborant_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.Properties.Resources.resources
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.sekreter_form.resources
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.GenerateResource.cache
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.CoreCompileInputs.cache
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.exe
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.pdb
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.exe.config
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.exe
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.pdb
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.dll
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.xml
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nurik\OneDrive\Masaüstü\New folder\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.CopyComplete
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.exe.config
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.exe
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.pdb
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.dll
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.xml
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.AssemblyReference.cache
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.admin_form.resources
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.dotor_form.resources
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.eczane_ilac_form.resources
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.giris_form.resources
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hasta_kayit_form.resources
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hasta_list_form.resources
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hemsire_form.resources
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.laborant_form.resources
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.Properties.Resources.resources
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.sekreter_form.resources
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.GenerateResource.cache
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.CoreCompileInputs.cache
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.CopyComplete
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.exe
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.pdb
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.taburcu_olan_hastalar.resources
+C:\Users\sylmz\Desktop\SuFaturasi_NO2A\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.gecmis.resources
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.exe.config
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.exe
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\bin\Debug\proje.v3.1.pdb
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.dll
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.xml
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.AssemblyReference.cache
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.admin_form.resources
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.dotor_form.resources
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.eczane_ilac_form.resources
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.gecmis.resources
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.giris_form.resources
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hasta_kayit_form.resources
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hasta_list_form.resources
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.hemsire_form.resources
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.laborant_form.resources
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.Properties.Resources.resources
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.sekreter_form.resources
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3._1.taburcu_olan_hastalar.resources
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.GenerateResource.cache
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.CoreCompileInputs.cache
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.csproj.CopyComplete
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.exe
+C:\Users\sylmz\Desktop\Proje\proje.v3.2\proje.v3.1\obj\Debug\proje.v3.1.pdb

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HastaneModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="HastaneEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Doktor" EntityType="HastaneModel.Doktor" />
+    <EntitySet Name="Eczane" EntityType="HastaneModel.Eczane" />
+    <EntitySet Name="Laboratuvar" EntityType="HastaneModel.Laboratuvar" />
+    <EntitySet Name="Personel" EntityType="HastaneModel.Personel" />
+    <EntitySet Name="Polikinlik" EntityType="HastaneModel.Polikinlik" />
+    <EntitySet Name="Yatis" EntityType="HastaneModel.Yatis" />
+    <EntitySet Name="Hasta" EntityType="HastaneModel.Hasta" />
+  </EntityContainer>
+  <EntityType Name="Doktor">
+    <Key>
+      <PropertyRef Name="D_ID" />
+    </Key>
+    <Property Name="D_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="P_ID" Type="Int32" />
+    <Property Name="D_ad_soyad" Type="String" MaxLength="40" FixedLength="true" Unicode="false" />
+    <Property Name="D_klinik_ID" Type="Int32" />
+    <Property Name="D_k_adi" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="D_sifte" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Eczane">
+    <Key>
+      <PropertyRef Name="İlac_ID" />
+    </Key>
+    <Property Name="İlac_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="İlac_adi" Type="String" Nullable="false" MaxLength="40" FixedLength="true" Unicode="true" />
+    <Property Name="İlac_ticari_ad" Type="String" Nullable="false" MaxLength="25" FixedLength="true" Unicode="true" />
+    <Property Name="İlac_stok" Type="Int32" Nullable="false" />
+    <Property Name="İlac_klinik_ID" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Laboratuvar">
+    <Key>
+      <PropertyRef Name="Tahlil_ID" />
+    </Key>
+    <Property Name="Tahlil_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Tahlil_sonuc" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Personel">
+    <Key>
+      <PropertyRef Name="P_ID" />
+    </Key>
+    <Property Name="P_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="P_tc" Type="String" MaxLength="11" FixedLength="true" Unicode="true" />
+    <Property Name="P_adi" Type="String" MaxLength="25" FixedLength="true" Unicode="true" />
+    <Property Name="P_s_adi" Type="String" MaxLength="25" FixedLength="true" Unicode="true" />
+    <Property Name="P_anne_adi" Type="String" MaxLength="25" FixedLength="true" Unicode="true" />
+    <Property Name="P_baba_adi" Type="String" MaxLength="25" FixedLength="true" Unicode="true" />
+    <Property Name="P_d_yeri" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="P_d_tarihi" Type="DateTime" Precision="0" />
+    <Property Name="P_sifre" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+    <Property Name="P_yetki" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="P_birim_ID" Type="Int32" />
+    <Property Name="P_klinik_ID" Type="Int32" />
+    <Property Name="P_eposta" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+    <Property Name="P_tel" Type="String" MaxLength="11" FixedLength="true" Unicode="true" />
+    <Property Name="p_cinsiyet" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="P_izingun" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Polikinlik">
+    <Key>
+      <PropertyRef Name="Polik_ID" />
+    </Key>
+    <Property Name="Polik_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Polik_d_ID" Type="Int32" />
+    <Property Name="Polik_adi" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Yatis">
+    <Key>
+      <PropertyRef Name="Yatis_ID" />
+    </Key>
+    <Property Name="Yatis_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Yatis_tarih" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="H_tc" Type="String" MaxLength="11" FixedLength="true" Unicode="true" />
+    <Property Name="Taburuc_durum" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Hasta">
+    <Key>
+      <PropertyRef Name="H_ID" />
+    </Key>
+    <Property Name="H_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="H_tc" Type="String" MaxLength="11" FixedLength="true" Unicode="false" />
+    <Property Name="H_adi" Type="String" MaxLength="25" FixedLength="true" Unicode="true" />
+    <Property Name="H_s_adi" Type="String" MaxLength="25" FixedLength="true" Unicode="true" />
+    <Property Name="H_cinsiyet" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="H_d_yeri" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="H_d_tarihi" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="H_baba_adi" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="H_anne_adi" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="H_tel" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="H_eposta" Type="String" MaxLength="40" FixedLength="true" Unicode="true" />
+    <Property Name="H_sifre" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+    <Property Name="H_yatis_ID" Type="Int32" />
+    <Property Name="H_recete_ID" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="H_randevu_ID" Type="Int32" />
+    <Property Name="D_ID" Type="Int32" />
+    <Property Name="H_nabiz" Type="Int32" />
+    <Property Name="H_randevu_tarih" Type="String" MaxLength="30" FixedLength="true" Unicode="false" />
+    <Property Name="H_tedavi_durum" Type="Int32" />
+    <Property Name="H_tansiyon" Type="String" MaxLength="8" FixedLength="true" Unicode="true" />
+    <Property Name="H_tahlil_ID" Type="Int32" />
+    <Property Name="H_ilac_ID" Type="Int32" />
+    <Property Name="H_tahlil_sonuc" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="H_randevu_saat" Type="String" MaxLength="6" FixedLength="true" Unicode="true" />
+    <Property Name="H_taburcu_tarih" Type="String" MaxLength="30" FixedLength="true" Unicode="false" />
+    <Property Name="H_gecmis_randevu_tarih" Type="String" MaxLength="30" FixedLength="true" Unicode="false" />
+  </EntityType>
+</Schema>

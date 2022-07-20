@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HastaneModelStoreContainer" CdmEntityContainer="HastaneEntities">
+    <EntitySetMapping Name="Doktor">
+      <EntityTypeMapping TypeName="HastaneModel.Doktor">
+        <MappingFragment StoreEntitySet="Doktor">
+          <ScalarProperty Name="D_sifte" ColumnName="D_sifte" />
+          <ScalarProperty Name="D_k_adi" ColumnName="D_k_adi" />
+          <ScalarProperty Name="D_klinik_ID" ColumnName="D_klinik_ID" />
+          <ScalarProperty Name="D_ad_soyad" ColumnName="D_ad_soyad" />
+          <ScalarProperty Name="P_ID" ColumnName="P_ID" />
+          <ScalarProperty Name="D_ID" ColumnName="D_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Eczane">
+      <EntityTypeMapping TypeName="HastaneModel.Eczane">
+        <MappingFragment StoreEntitySet="Eczane">
+          <ScalarProperty Name="İlac_klinik_ID" ColumnName="İlac_klinik_ID" />
+          <ScalarProperty Name="İlac_stok" ColumnName="İlac_stok" />
+          <ScalarProperty Name="İlac_ticari_ad" ColumnName="İlac_ticari_ad" />
+          <ScalarProperty Name="İlac_adi" ColumnName="İlac_adi" />
+          <ScalarProperty Name="İlac_ID" ColumnName="İlac_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Laboratuvar">
+      <EntityTypeMapping TypeName="HastaneModel.Laboratuvar">
+        <MappingFragment StoreEntitySet="Laboratuvar">
+          <ScalarProperty Name="Tahlil_sonuc" ColumnName="Tahlil_sonuc" />
+          <ScalarProperty Name="Tahlil_ID" ColumnName="Tahlil_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Personel">
+      <EntityTypeMapping TypeName="HastaneModel.Personel">
+        <MappingFragment StoreEntitySet="Personel">
+          <ScalarProperty Name="P_izingun" ColumnName="P_izingun" />
+          <ScalarProperty Name="p_cinsiyet" ColumnName="p_cinsiyet" />
+          <ScalarProperty Name="P_tel" ColumnName="P_tel" />
+          <ScalarProperty Name="P_eposta" ColumnName="P_eposta" />
+          <ScalarProperty Name="P_klinik_ID" ColumnName="P_klinik_ID" />
+          <ScalarProperty Name="P_birim_ID" ColumnName="P_birim_ID" />
+          <ScalarProperty Name="P_yetki" ColumnName="P_yetki" />
+          <ScalarProperty Name="P_sifre" ColumnName="P_sifre" />
+          <ScalarProperty Name="P_d_tarihi" ColumnName="P_d_tarihi" />
+          <ScalarProperty Name="P_d_yeri" ColumnName="P_d_yeri" />
+          <ScalarProperty Name="P_baba_adi" ColumnName="P_baba_adi" />
+          <ScalarProperty Name="P_anne_adi" ColumnName="P_anne_adi" />
+          <ScalarProperty Name="P_s_adi" ColumnName="P_s_adi" />
+          <ScalarProperty Name="P_adi" ColumnName="P_adi" />
+          <ScalarProperty Name="P_tc" ColumnName="P_tc" />
+          <ScalarProperty Name="P_ID" ColumnName="P_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Polikinlik">
+      <EntityTypeMapping TypeName="HastaneModel.Polikinlik">
+        <MappingFragment StoreEntitySet="Polikinlik">
+          <ScalarProperty Name="Polik_adi" ColumnName="Polik_adi" />
+          <ScalarProperty Name="Polik_d_ID" ColumnName="Polik_d_ID" />
+          <ScalarProperty Name="Polik_ID" ColumnName="Polik_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Yatis">
+      <EntityTypeMapping TypeName="HastaneModel.Yatis">
+        <MappingFragment StoreEntitySet="Yatis">
+          <ScalarProperty Name="Taburuc_durum" ColumnName="Taburuc_durum" />
+          <ScalarProperty Name="H_tc" ColumnName="H_tc" />
+          <ScalarProperty Name="Yatis_tarih" ColumnName="Yatis_tarih" />
+          <ScalarProperty Name="Yatis_ID" ColumnName="Yatis_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Hasta">
+      <EntityTypeMapping TypeName="HastaneModel.Hasta">
+        <MappingFragment StoreEntitySet="Hasta">
+          <ScalarProperty Name="H_gecmis_randevu_tarih" ColumnName="H_gecmis_randevu_tarih" />
+          <ScalarProperty Name="H_taburcu_tarih" ColumnName="H_taburcu_tarih" />
+          <ScalarProperty Name="H_randevu_saat" ColumnName="H_randevu_saat" />
+          <ScalarProperty Name="H_tahlil_sonuc" ColumnName="H_tahlil_sonuc" />
+          <ScalarProperty Name="H_ilac_ID" ColumnName="H_ilac_ID" />
+          <ScalarProperty Name="H_tahlil_ID" ColumnName="H_tahlil_ID" />
+          <ScalarProperty Name="H_tansiyon" ColumnName="H_tansiyon" />
+          <ScalarProperty Name="H_tedavi_durum" ColumnName="H_tedavi_durum" />
+          <ScalarProperty Name="H_randevu_tarih" ColumnName="H_randevu_tarih" />
+          <ScalarProperty Name="H_nabiz" ColumnName="H_nabiz" />
+          <ScalarProperty Name="D_ID" ColumnName="D_ID" />
+          <ScalarProperty Name="H_randevu_ID" ColumnName="H_randevu_ID" />
+          <ScalarProperty Name="H_recete_ID" ColumnName="H_recete_ID" />
+          <ScalarProperty Name="H_yatis_ID" ColumnName="H_yatis_ID" />
+          <ScalarProperty Name="H_sifre" ColumnName="H_sifre" />
+          <ScalarProperty Name="H_eposta" ColumnName="H_eposta" />
+          <ScalarProperty Name="H_tel" ColumnName="H_tel" />
+          <ScalarProperty Name="H_anne_adi" ColumnName="H_anne_adi" />
+          <ScalarProperty Name="H_baba_adi" ColumnName="H_baba_adi" />
+          <ScalarProperty Name="H_d_tarihi" ColumnName="H_d_tarihi" />
+          <ScalarProperty Name="H_d_yeri" ColumnName="H_d_yeri" />
+          <ScalarProperty Name="H_cinsiyet" ColumnName="H_cinsiyet" />
+          <ScalarProperty Name="H_s_adi" ColumnName="H_s_adi" />
+          <ScalarProperty Name="H_adi" ColumnName="H_adi" />
+          <ScalarProperty Name="H_tc" ColumnName="H_tc" />
+          <ScalarProperty Name="H_ID" ColumnName="H_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

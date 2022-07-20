@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HastaneModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Doktor">
+    <Key>
+      <PropertyRef Name="D_ID" />
+    </Key>
+    <Property Name="D_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="P_ID" Type="int" />
+    <Property Name="D_ad_soyad" Type="char" MaxLength="40" />
+    <Property Name="D_klinik_ID" Type="int" />
+    <Property Name="D_k_adi" Type="nchar" MaxLength="20" />
+    <Property Name="D_sifte" Type="nchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Eczane">
+    <Key>
+      <PropertyRef Name="İlac_ID" />
+    </Key>
+    <Property Name="İlac_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="İlac_adi" Type="nchar" MaxLength="40" Nullable="false" />
+    <Property Name="İlac_ticari_ad" Type="nchar" MaxLength="25" Nullable="false" />
+    <Property Name="İlac_stok" Type="int" Nullable="false" />
+    <Property Name="İlac_klinik_ID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Hasta">
+    <Key>
+      <PropertyRef Name="H_ID" />
+    </Key>
+    <Property Name="H_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="H_tc" Type="char" MaxLength="11" />
+    <Property Name="H_adi" Type="nchar" MaxLength="25" />
+    <Property Name="H_s_adi" Type="nchar" MaxLength="25" />
+    <Property Name="H_cinsiyet" Type="char" MaxLength="1" />
+    <Property Name="H_d_yeri" Type="nchar" MaxLength="20" />
+    <Property Name="H_d_tarihi" Type="nchar" MaxLength="20" />
+    <Property Name="H_baba_adi" Type="nchar" MaxLength="20" />
+    <Property Name="H_anne_adi" Type="nchar" MaxLength="20" />
+    <Property Name="H_tel" Type="nchar" MaxLength="10" />
+    <Property Name="H_eposta" Type="nchar" MaxLength="40" />
+    <Property Name="H_sifre" Type="nchar" MaxLength="30" />
+    <Property Name="H_yatis_ID" Type="int" />
+    <Property Name="H_recete_ID" Type="text" />
+    <Property Name="H_randevu_ID" Type="int" />
+    <Property Name="D_ID" Type="int" />
+    <Property Name="H_nabiz" Type="int" />
+    <Property Name="H_randevu_tarih" Type="char" MaxLength="30" />
+    <Property Name="H_tedavi_durum" Type="int" />
+    <Property Name="H_tansiyon" Type="nchar" MaxLength="8" />
+    <Property Name="H_tahlil_ID" Type="int" />
+    <Property Name="H_ilac_ID" Type="int" />
+    <Property Name="H_tahlil_sonuc" Type="text" />
+    <Property Name="H_randevu_saat" Type="nchar" MaxLength="6" />
+    <Property Name="H_taburcu_tarih" Type="char" MaxLength="30" />
+    <Property Name="H_gecmis_randevu_tarih" Type="char" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Laboratuvar">
+    <Key>
+      <PropertyRef Name="Tahlil_ID" />
+    </Key>
+    <Property Name="Tahlil_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tahlil_sonuc" Type="text" />
+  </EntityType>
+  <EntityType Name="Personel">
+    <Key>
+      <PropertyRef Name="P_ID" />
+    </Key>
+    <Property Name="P_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="P_tc" Type="nchar" MaxLength="11" />
+    <Property Name="P_adi" Type="nchar" MaxLength="25" />
+    <Property Name="P_s_adi" Type="nchar" MaxLength="25" />
+    <Property Name="P_anne_adi" Type="nchar" MaxLength="25" />
+    <Property Name="P_baba_adi" Type="nchar" MaxLength="25" />
+    <Property Name="P_d_yeri" Type="nchar" MaxLength="20" />
+    <Property Name="P_d_tarihi" Type="date" />
+    <Property Name="P_sifre" Type="nchar" MaxLength="30" />
+    <Property Name="P_yetki" Type="nchar" MaxLength="10" />
+    <Property Name="P_birim_ID" Type="int" />
+    <Property Name="P_klinik_ID" Type="int" />
+    <Property Name="P_eposta" Type="nchar" MaxLength="30" />
+    <Property Name="P_tel" Type="nchar" MaxLength="11" />
+    <Property Name="p_cinsiyet" Type="char" MaxLength="1" />
+    <Property Name="P_izingun" Type="int" />
+  </EntityType>
+  <EntityType Name="Polikinlik">
+    <Key>
+      <PropertyRef Name="Polik_ID" />
+    </Key>
+    <Property Name="Polik_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Polik_d_ID" Type="int" />
+    <Property Name="Polik_adi" Type="nchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Yatis">
+    <Key>
+      <PropertyRef Name="Yatis_ID" />
+    </Key>
+    <Property Name="Yatis_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Yatis_tarih" Type="nchar" MaxLength="20" />
+    <Property Name="H_tc" Type="nchar" MaxLength="11" />
+    <Property Name="Taburuc_durum" Type="int" />
+  </EntityType>
+  <EntityContainer Name="HastaneModelStoreContainer">
+    <EntitySet Name="Doktor" EntityType="Self.Doktor" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Eczane" EntityType="Self.Eczane" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Hasta" EntityType="Self.Hasta" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Laboratuvar" EntityType="Self.Laboratuvar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Personel" EntityType="Self.Personel" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Polikinlik" EntityType="Self.Polikinlik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Yatis" EntityType="Self.Yatis" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
